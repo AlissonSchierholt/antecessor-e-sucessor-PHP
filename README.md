@@ -1,6 +1,7 @@
 <h1>Primeiro desafio utilizando o php!</h1>
 
-<p>Nele, usando o apache, tive a primeira experiencia pratica com o formulario e o php. Tive facilidades em realizar por ser bem siples (o style.css não foi criação minha).</p>
+<p>Nele, usando o apache, tive a primeira experiencia pratica com o formulario e o php. Tive facilidades em realizar por ser bem siples.   
+obs.: (o style.css não foi criação minha, e sim uma importação).</p>
 
 <p><strong>1.</strong>Você coloca um numero desejado e clique e, "Enviar", ex.: 100;</p>
 
